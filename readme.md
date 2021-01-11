@@ -1,8 +1,8 @@
-#Projekt 2
+# Projekt 2
 
-##opis
+## opis
 
 lorem
 
-##licencja
+## licencja
 opis
